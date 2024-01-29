@@ -1,0 +1,8 @@
+.div{
+    background-color: red;
+    padding: 24px;
+    margin: 24px;
+    /* display: inline-block; */
+    box-sizing: border-box;
+    width: 100%;
+}
