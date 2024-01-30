@@ -1,0 +1,47 @@
+.box-container,
+.box-container1,
+.box-container2 {
+
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+
+.box {
+    background-color: red;
+    margin: 5px;
+    display: inline-block;
+    box-sizing: border-box;
+    color: rgb(0, 0, 0);
+    padding-top: 6px;
+    padding-left: 6px;
+    height: 150px;
+    width: 200px;
+}
+
+.box1 {
+    border: 5px solid black;
+}
+
+.box2 {
+    border: 5px solid rgb(62, 61, 61);
+}
+
+.box3 {
+    border-style: dashed solid ;
+}
+
+.box4 {
+    border-style: dotted;
+}
+
+.box5 {
+    border: 5px solid rgb(255, 255, 255);
+}
+
+.box6 {
+    border-top: 7px solid blue;
+    border-left: 7px solid rgb(1, 102, 8);
+    border-right: 7px solid rgb(112, 112, 111);
+    border-bottom: 7px solid rgb(241, 255, 132);
+}

@@ -1,14 +1,18 @@
+
 .box-container,
 .box-container2,
 .box-container3 {
-    justify-content: center;
-    margin: 15px;
-    display: flex;
-    box-sizing: border-box;
+    /* justify-content: center; */
+    margin-top: 25px;
+    margin-left: 165px;
+    /* display: inline-block;
+    box-sizing: border-box; */
 }
 
 .box {
     margin: 8px;
+    display: inline-block;
+    box-sizing: border-box;
     color: rgb(255, 255, 255);
     padding-top: 6px;
     padding-left: 6px;
